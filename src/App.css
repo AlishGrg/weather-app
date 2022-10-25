@@ -1,0 +1,8 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(0, 0, 0, 0.5);
+    background: url('./assests/img.jpg') center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
